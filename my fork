@@ -1,0 +1,2 @@
+users = {'milo':'123456'}
+usr = input(username: ')
